@@ -1,0 +1,17 @@
+# Données Rakuten - trop lourdes ou propriété du challenge
+X_train_update.csv
+Y_train_CVw08PX.csv
+X_test_update.csv
+df_X_clean.csv
+
+# Images
+images/
+images.zip
+
+# Fichiers système Mac
+.DS_Store
+
+# Environnements Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
