@@ -1,0 +1,7 @@
+*.ipynb
+*.csv
+*.zip
+images/
+mlruns/
+__pycache__/
+.git/

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+spacy
+beautifulsoup4
+nltk
+pydantic
+python-multipart
